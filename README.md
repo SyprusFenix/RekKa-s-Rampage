@@ -1,6 +1,7 @@
 # RekKa's Rampage
 
-This is a starter project I did while working on the Unity Junior Programmer Path.
+This is a starter project I did while working on the 
+[Unity Junior Programmer Path](https://learn.unity.com/pathway/junior-programmer).
 I worked on this during the lab section of the program.
 
 ## About the Game
